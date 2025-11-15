@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Luis.
 - 🎓 BA in Financial Management.
-- 🎯 I'm currently changing careers towards software development.
+- 🎯 Data Analyst exploring data engineering and backend development.
