@@ -1,3 +1,2 @@
-- 👋 Hi, I’m Luis.
 - 🎓 BA in Financial Management.
-- 🎯 Data Analyst exploring data engineering and backend development.
+- 🎯 Currently learning data engineering and backend development.
